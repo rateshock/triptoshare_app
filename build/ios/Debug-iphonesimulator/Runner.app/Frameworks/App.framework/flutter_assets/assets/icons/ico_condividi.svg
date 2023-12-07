@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="705px" height="705px" viewbox="0 0 705 705" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="IconeCondividi" transform="translate(0.5 0.5)">
+    <path d="M0 704L704 704L704 0L0 0L0 704Z" id="Stroke-3" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M352.587 99.153C340.589 0.88631 474.613 -39.5937 518.613 48.993C562.936 137.286 449.973 220.3 378.987 151.66L175.413 253.446C176.293 260.78 176.293 267.82 175.413 275.153L378.987 376.94C449.973 308.3 562.936 391.313 518.613 479.606C474.613 568.193 340.589 527.713 352.587 429.446L149.043 327.66C93.3093 381.633 0 342.033 0 264.3C0 186.566 93.3093 146.966 149.043 200.94L352.587 99.153Z" transform="translate(87.98567 87.70371)" id="Fill-1" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

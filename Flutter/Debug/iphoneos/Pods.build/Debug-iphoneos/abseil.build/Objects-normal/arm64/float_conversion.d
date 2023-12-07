@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/strings/internal/str_format/float_conversion.cc \
+  /Users/darrott/newtripapp/ios/Pods/Target\ Support\ Files/abseil/abseil-prefix.pch \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/strings/internal/str_format/float_conversion.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/strings/internal/str_format/extension.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/config.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/options.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/policy_checks.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/port.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/attributes.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/optimization.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/meta/type_traits.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/strings/internal/str_format/output.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/strings/string_view.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/internal/throw_delegate.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/macros.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/functional/function_ref.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/functional/internal/function_ref.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/internal/invoke.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/numeric/bits.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/numeric/internal/bits.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/numeric/int128.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/numeric/int128_have_intrinsic.inc \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/numeric/internal/representation.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/strings/numbers.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/types/optional.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/utility/utility.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/internal/inline_variable.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/base/internal/identity.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/types/bad_optional_access.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/types/internal/optional.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/memory/memory.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/types/span.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/types/internal/span.h \
+  /Users/darrott/newtripapp/ios/Pods/abseil/absl/algorithm/algorithm.h

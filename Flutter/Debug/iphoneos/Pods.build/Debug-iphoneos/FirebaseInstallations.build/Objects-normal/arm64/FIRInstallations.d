@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseInstallations.build/module.modulemap \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/darrott/newtripapp/ios/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/darrott/newtripapp/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/darrott/newtripapp/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponent.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRDependency.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLogger.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResultInternal.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h \
+  /Users/darrott/newtripapp/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h

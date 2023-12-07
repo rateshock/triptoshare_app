@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/crypto/digest_extra/digest_extra.c \
+  /Users/darrott/newtripapp/ios/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/digest.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/base.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/is_boringssl.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/opensslconf.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/boringssl_prefix_symbols.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/blake2.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/bytestring.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/span.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/obj.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/nid.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/crypto/digest_extra/../asn1/internal.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/asn1.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/bio.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/buffer.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/buf.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/err.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/ex_data.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/stack.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/type_check.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/thread.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/bn.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/asn1t.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/crypto/digest_extra/../internal.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/crypto.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/sha.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/include/openssl/mem.h \
+  /Users/darrott/newtripapp/ios/Pods/BoringSSL-GRPC/src/crypto/digest_extra/../fipsmodule/digest/internal.h

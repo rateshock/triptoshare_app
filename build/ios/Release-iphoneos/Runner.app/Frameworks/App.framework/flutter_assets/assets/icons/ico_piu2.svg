@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="633px" height="633px" viewbox="0 0 633 633" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Icone+" transform="translate(0.5 0.5)">
+    <path d="M0 632L632 632L632 0L0 0L0 632Z" id="Stroke-3" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M79 131.667L26.3333 131.667C11.85 131.667 0 119.817 0 105.333C0 90.85 11.85 79 26.3333 79L79 79L79 26.3333C79 11.85 90.85 0 105.333 0C119.817 0 131.667 11.85 131.667 26.3333L131.667 79L184.333 79C198.817 79 210.667 90.85 210.667 105.333C210.667 119.817 198.817 131.667 184.333 131.667L131.667 131.667L131.667 184.333C131.667 198.817 119.817 210.667 105.333 210.667C90.85 210.667 79 198.817 79 184.333L79 131.667Z" transform="translate(210.66663 210.66663)" id="Fill-1" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

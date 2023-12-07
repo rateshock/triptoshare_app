@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "a5674768164e1bff42b71ffc83fc96fdaba46c4944605b66e59a04840fdee494"
+build_start_time: [1679996230, 128779000]
+build_end_time: [1679996232, 213213000]
+inputs:
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": [1679996085, 86693933]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift": [1679996085, 87703047]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift": [1679996085, 88090792]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift": [1679996085, 88912700]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift": [1679996085, 89258154]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": [1679996085, 86961930]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1679996085, 86455727]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift": [1679996085, 89397444]
+  "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift": [1679996085, 89091864]
+  ? "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1679996085, 87420342]
+  ? "/Users/darrott/newtripapp/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1679996085, 87864837]

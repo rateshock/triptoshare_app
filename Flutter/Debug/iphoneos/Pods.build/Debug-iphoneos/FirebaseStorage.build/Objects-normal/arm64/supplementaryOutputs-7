@@ -1,0 +1,15 @@
+"/Users/darrott/newtripapp/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift":
+  swift-dependencies: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.swiftdeps"
+  object: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.o"
+  dependencies: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.d"
+  diagnostics: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTokenAuthorizer.dia"
+"/Users/darrott/newtripapp/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift":
+  dependencies: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.d"
+  diagnostics: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.dia"
+  object: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.o"
+  swift-dependencies: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageUpdateMetadataTask.swiftdeps"
+"/Users/darrott/newtripapp/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift":
+  diagnostics: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.dia"
+  swift-dependencies: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.swiftdeps"
+  object: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.o"
+  dependencies: "/Users/darrott/newtripapp/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskState.d"

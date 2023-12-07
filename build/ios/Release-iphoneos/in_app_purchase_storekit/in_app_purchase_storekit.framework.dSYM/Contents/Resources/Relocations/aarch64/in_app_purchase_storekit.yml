@@ -1,0 +1,146 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alessandrogallo/app/newtripapp/build/ios/Release-iphoneos/in_app_purchase_storekit/in_app_purchase_storekit.framework/in_app_purchase_storekit'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x57B3B, size: 0x8, addend: 0x0, symName: _in_app_purchase_storekitVersionString, symObjAddr: 0x0, symBinAddr: 0x10220, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x57B70, size: 0x8, addend: 0x0, symName: _in_app_purchase_storekitVersionNumber, symObjAddr: 0x38, symBinAddr: 0x10258, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x57BAD, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKProduct:]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x4D8 }
+  - { offsetInCU: 0x4A, offset: 0x57BD0, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKProduct:]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x4D8 }
+  - { offsetInCU: 0x9D, offset: 0x57C23, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKProductSubscriptionPeriod:]', symObjAddr: 0x4D8, symBinAddr: 0x84D8, symSize: 0x114 }
+  - { offsetInCU: 0xE0, offset: 0x57C66, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapArrayFromSKProductDiscounts:]', symObjAddr: 0x5EC, symBinAddr: 0x85EC, symSize: 0x148 }
+  - { offsetInCU: 0x152, offset: 0x57CD8, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKProductDiscount:]', symObjAddr: 0x734, symBinAddr: 0x8734, symSize: 0x3A4 }
+  - { offsetInCU: 0x1A5, offset: 0x57D2B, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKProductsResponse:]', symObjAddr: 0xAD8, symBinAddr: 0x8AD8, symSize: 0x1D8 }
+  - { offsetInCU: 0x20F, offset: 0x57D95, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKPayment:]', symObjAddr: 0xCB0, symBinAddr: 0x8CB0, symSize: 0x2A4 }
+  - { offsetInCU: 0x262, offset: 0x57DE8, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromNSLocale:]', symObjAddr: 0xF54, symBinAddr: 0x8F54, symSize: 0x1C0 }
+  - { offsetInCU: 0x2B5, offset: 0x57E3B, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getSKMutablePaymentFromMap:]', symObjAddr: 0x1114, symBinAddr: 0x9114, symSize: 0x174 }
+  - { offsetInCU: 0x318, offset: 0x57E9E, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKPaymentTransaction:]', symObjAddr: 0x1288, symBinAddr: 0x9288, symSize: 0x3B0 }
+  - { offsetInCU: 0x36B, offset: 0x57EF1, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromNSError:]', symObjAddr: 0x1638, symBinAddr: 0x9638, symSize: 0x254 }
+  - { offsetInCU: 0x3EC, offset: 0x57F72, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator encodeNSErrorUserInfo:]', symObjAddr: 0x188C, symBinAddr: 0x988C, symSize: 0x254 }
+  - { offsetInCU: 0x46D, offset: 0x57FF3, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKStorefront:]', symObjAddr: 0x1AE0, symBinAddr: 0x9AE0, symSize: 0x11C }
+  - { offsetInCU: 0x4C0, offset: 0x58046, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getMapFromSKStorefront:andSKPaymentTransaction:]', symObjAddr: 0x1BFC, symBinAddr: 0x9BFC, symSize: 0x148 }
+  - { offsetInCU: 0x523, offset: 0x580A9, size: 0x8, addend: 0x0, symName: '+[FIAObjectTranslator getSKPaymentDiscountFromMap:withError:]', symObjAddr: 0x1D44, symBinAddr: 0x9D44, symSize: 0x2D4 }
+  - { offsetInCU: 0x27, offset: 0x5823C, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler initWithQueue:transactionsUpdated:transactionRemoved:restoreTransactionFailed:restoreCompletedTransactionsFinished:shouldAddStorePayment:updatedDownloads:]', symObjAddr: 0x0, symBinAddr: 0xA018, symSize: 0x14C }
+  - { offsetInCU: 0x35A, offset: 0x5856F, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler initWithQueue:transactionsUpdated:transactionRemoved:restoreTransactionFailed:restoreCompletedTransactionsFinished:shouldAddStorePayment:updatedDownloads:]', symObjAddr: 0x0, symBinAddr: 0xA018, symSize: 0x14C }
+  - { offsetInCU: 0x400, offset: 0x58615, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler initWithQueue:transactionsUpdated:transactionRemoved:restoreTransactionFailed:restoreCompletedTransactionsFinished:shouldAddStorePayment:updatedDownloads:transactionCache:]', symObjAddr: 0x14C, symBinAddr: 0xA164, symSize: 0x21C }
+  - { offsetInCU: 0x4B7, offset: 0x586CC, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler startObservingPaymentQueue]', symObjAddr: 0x368, symBinAddr: 0xA380, symSize: 0x28 }
+  - { offsetInCU: 0x4EA, offset: 0x586FF, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler stopObservingPaymentQueue]', symObjAddr: 0x390, symBinAddr: 0xA3A8, symSize: 0x8 }
+  - { offsetInCU: 0x51B, offset: 0x58730, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler processCachedTransactions]', symObjAddr: 0x398, symBinAddr: 0xA3B0, symSize: 0x180 }
+  - { offsetInCU: 0x59A, offset: 0x587AF, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler addPayment:]', symObjAddr: 0x518, symBinAddr: 0xA530, symSize: 0x1C8 }
+  - { offsetInCU: 0x5F8, offset: 0x5880D, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler finishTransaction:]', symObjAddr: 0x6E0, symBinAddr: 0xA6F8, symSize: 0x50 }
+  - { offsetInCU: 0x63B, offset: 0x58850, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler restoreTransactions:]', symObjAddr: 0x730, symBinAddr: 0xA748, symSize: 0x5C }
+  - { offsetInCU: 0x67E, offset: 0x58893, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler presentCodeRedemptionSheet]', symObjAddr: 0x78C, symBinAddr: 0xA7A4, symSize: 0x68 }
+  - { offsetInCU: 0x6B1, offset: 0x588C6, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler showPriceConsentIfNeeded]', symObjAddr: 0x7F4, symBinAddr: 0xA80C, symSize: 0x30 }
+  - { offsetInCU: 0x6E4, offset: 0x588F9, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueue:updatedTransactions:]', symObjAddr: 0x824, symBinAddr: 0xA83C, symSize: 0x74 }
+  - { offsetInCU: 0x747, offset: 0x5895C, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueue:removedTransactions:]', symObjAddr: 0x898, symBinAddr: 0xA8B0, symSize: 0x74 }
+  - { offsetInCU: 0x7AA, offset: 0x589BF, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueue:restoreCompletedTransactionsFailedWithError:]', symObjAddr: 0x90C, symBinAddr: 0xA924, symSize: 0x54 }
+  - { offsetInCU: 0x80D, offset: 0x58A22, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueueRestoreCompletedTransactionsFinished:]', symObjAddr: 0x960, symBinAddr: 0xA978, symSize: 0x34 }
+  - { offsetInCU: 0x858, offset: 0x58A6D, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueue:updatedDownloads:]', symObjAddr: 0x994, symBinAddr: 0xA9AC, symSize: 0x74 }
+  - { offsetInCU: 0x8BB, offset: 0x58AD0, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueue:shouldAddStorePayment:forProduct:]', symObjAddr: 0xA08, symBinAddr: 0xAA20, symSize: 0x84 }
+  - { offsetInCU: 0x939, offset: 0x58B4E, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler getUnfinishedTransactions]', symObjAddr: 0xA8C, symBinAddr: 0xAAA4, symSize: 0x44 }
+  - { offsetInCU: 0x970, offset: 0x58B85, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler delegate]', symObjAddr: 0xAD0, symBinAddr: 0xAAE8, symSize: 0x18 }
+  - { offsetInCU: 0x9A7, offset: 0x58BBC, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setDelegate:]', symObjAddr: 0xAE8, symBinAddr: 0xAB00, symSize: 0xC }
+  - { offsetInCU: 0x9E8, offset: 0x58BFD, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler queue]', symObjAddr: 0xAF4, symBinAddr: 0xAB0C, symSize: 0x8 }
+  - { offsetInCU: 0xA1F, offset: 0x58C34, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setQueue:]', symObjAddr: 0xAFC, symBinAddr: 0xAB14, symSize: 0xC }
+  - { offsetInCU: 0xA60, offset: 0x58C75, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler transactionsUpdated]', symObjAddr: 0xB08, symBinAddr: 0xAB20, symSize: 0x8 }
+  - { offsetInCU: 0xA97, offset: 0x58CAC, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setTransactionsUpdated:]', symObjAddr: 0xB10, symBinAddr: 0xAB28, symSize: 0x8 }
+  - { offsetInCU: 0xAD6, offset: 0x58CEB, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler transactionsRemoved]', symObjAddr: 0xB18, symBinAddr: 0xAB30, symSize: 0x8 }
+  - { offsetInCU: 0xB0D, offset: 0x58D22, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setTransactionsRemoved:]', symObjAddr: 0xB20, symBinAddr: 0xAB38, symSize: 0x8 }
+  - { offsetInCU: 0xB4C, offset: 0x58D61, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler restoreTransactionFailed]', symObjAddr: 0xB28, symBinAddr: 0xAB40, symSize: 0x8 }
+  - { offsetInCU: 0xB83, offset: 0x58D98, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setRestoreTransactionFailed:]', symObjAddr: 0xB30, symBinAddr: 0xAB48, symSize: 0x8 }
+  - { offsetInCU: 0xBC2, offset: 0x58DD7, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler paymentQueueRestoreCompletedTransactionsFinished]', symObjAddr: 0xB38, symBinAddr: 0xAB50, symSize: 0x8 }
+  - { offsetInCU: 0xBF9, offset: 0x58E0E, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setPaymentQueueRestoreCompletedTransactionsFinished:]', symObjAddr: 0xB40, symBinAddr: 0xAB58, symSize: 0x8 }
+  - { offsetInCU: 0xC38, offset: 0x58E4D, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler shouldAddStorePayment]', symObjAddr: 0xB48, symBinAddr: 0xAB60, symSize: 0x8 }
+  - { offsetInCU: 0xC6F, offset: 0x58E84, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setShouldAddStorePayment:]', symObjAddr: 0xB50, symBinAddr: 0xAB68, symSize: 0x8 }
+  - { offsetInCU: 0xCAE, offset: 0x58EC3, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler updatedDownloads]', symObjAddr: 0xB58, symBinAddr: 0xAB70, symSize: 0x8 }
+  - { offsetInCU: 0xCE5, offset: 0x58EFA, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setUpdatedDownloads:]', symObjAddr: 0xB60, symBinAddr: 0xAB78, symSize: 0x8 }
+  - { offsetInCU: 0xD24, offset: 0x58F39, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler transactionCache]', symObjAddr: 0xB68, symBinAddr: 0xAB80, symSize: 0x8 }
+  - { offsetInCU: 0xD5B, offset: 0x58F70, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setTransactionCache:]', symObjAddr: 0xB70, symBinAddr: 0xAB88, symSize: 0xC }
+  - { offsetInCU: 0xD9C, offset: 0x58FB1, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler isObservingTransactions]', symObjAddr: 0xB7C, symBinAddr: 0xAB94, symSize: 0xC }
+  - { offsetInCU: 0xDD3, offset: 0x58FE8, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler setObservingTransactions:]', symObjAddr: 0xB88, symBinAddr: 0xABA0, symSize: 0x8 }
+  - { offsetInCU: 0xE10, offset: 0x59025, size: 0x8, addend: 0x0, symName: '-[FIAPaymentQueueHandler .cxx_destruct]', symObjAddr: 0xB90, symBinAddr: 0xABA8, symSize: 0x80 }
+  - { offsetInCU: 0x27, offset: 0x590B4, size: 0x8, addend: 0x0, symName: '-[FIAPPaymentQueueDelegate initWithMethodChannel:]', symObjAddr: 0x0, symBinAddr: 0xAC28, symSize: 0x78 }
+  - { offsetInCU: 0x81, offset: 0x5910E, size: 0x8, addend: 0x0, symName: '-[FIAPPaymentQueueDelegate initWithMethodChannel:]', symObjAddr: 0x0, symBinAddr: 0xAC28, symSize: 0x78 }
+  - { offsetInCU: 0xC8, offset: 0x59155, size: 0x8, addend: 0x0, symName: '-[FIAPPaymentQueueDelegate paymentQueue:shouldContinueTransaction:inStorefront:]', symObjAddr: 0x78, symBinAddr: 0xACA0, symSize: 0x19C }
+  - { offsetInCU: 0x1E8, offset: 0x59275, size: 0x8, addend: 0x0, symName: '___80-[FIAPPaymentQueueDelegate paymentQueue:shouldContinueTransaction:inStorefront:]_block_invoke', symObjAddr: 0x214, symBinAddr: 0xAE3C, symSize: 0x68 }
+  - { offsetInCU: 0x263, offset: 0x592F0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r, symObjAddr: 0x27C, symBinAddr: 0xAEA4, symSize: 0x34 }
+  - { offsetInCU: 0x28C, offset: 0x59319, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x2B0, symBinAddr: 0xAED8, symSize: 0x2C }
+  - { offsetInCU: 0x2AB, offset: 0x59338, size: 0x8, addend: 0x0, symName: '-[FIAPPaymentQueueDelegate paymentQueueShouldShowPriceConsent:]', symObjAddr: 0x2DC, symBinAddr: 0xAF04, symSize: 0x138 }
+  - { offsetInCU: 0x356, offset: 0x593E3, size: 0x8, addend: 0x0, symName: '___63-[FIAPPaymentQueueDelegate paymentQueueShouldShowPriceConsent:]_block_invoke', symObjAddr: 0x414, symBinAddr: 0xB03C, symSize: 0x68 }
+  - { offsetInCU: 0x3BF, offset: 0x5944C, size: 0x8, addend: 0x0, symName: '-[FIAPPaymentQueueDelegate callbackChannel]', symObjAddr: 0x47C, symBinAddr: 0xB0A4, symSize: 0x8 }
+  - { offsetInCU: 0x3F6, offset: 0x59483, size: 0x8, addend: 0x0, symName: '-[FIAPPaymentQueueDelegate .cxx_destruct]', symObjAddr: 0x484, symBinAddr: 0xB0AC, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x596E1, size: 0x8, addend: 0x0, symName: '-[FIAPReceiptManager retrieveReceiptWithError:]', symObjAddr: 0x0, symBinAddr: 0xB0B8, symSize: 0x1B4 }
+  - { offsetInCU: 0x62, offset: 0x5971C, size: 0x8, addend: 0x0, symName: '-[FIAPReceiptManager retrieveReceiptWithError:]', symObjAddr: 0x0, symBinAddr: 0xB0B8, symSize: 0x1B4 }
+  - { offsetInCU: 0xF8, offset: 0x597B2, size: 0x8, addend: 0x0, symName: '-[FIAPReceiptManager getReceiptData:error:]', symObjAddr: 0x1B4, symBinAddr: 0xB26C, symSize: 0x14 }
+  - { offsetInCU: 0x27, offset: 0x5986F, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler initWithRequest:]', symObjAddr: 0x0, symBinAddr: 0xB280, symSize: 0x78 }
+  - { offsetInCU: 0x124, offset: 0x5996C, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler initWithRequest:]', symObjAddr: 0x0, symBinAddr: 0xB280, symSize: 0x78 }
+  - { offsetInCU: 0x16B, offset: 0x599B3, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler startProductRequestWithCompletionHandler:]', symObjAddr: 0x78, symBinAddr: 0xB2F8, symSize: 0x3C }
+  - { offsetInCU: 0x1AE, offset: 0x599F6, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler productsRequest:didReceiveResponse:]', symObjAddr: 0xB4, symBinAddr: 0xB334, symSize: 0x88 }
+  - { offsetInCU: 0x217, offset: 0x59A5F, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler requestDidFinish:]', symObjAddr: 0x13C, symBinAddr: 0xB3BC, symSize: 0x68 }
+  - { offsetInCU: 0x26F, offset: 0x59AB7, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler request:didFailWithError:]', symObjAddr: 0x1A4, symBinAddr: 0xB424, symSize: 0x7C }
+  - { offsetInCU: 0x2D8, offset: 0x59B20, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler completion]', symObjAddr: 0x220, symBinAddr: 0xB4A0, symSize: 0x8 }
+  - { offsetInCU: 0x30F, offset: 0x59B57, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler setCompletion:]', symObjAddr: 0x228, symBinAddr: 0xB4A8, symSize: 0x8 }
+  - { offsetInCU: 0x34E, offset: 0x59B96, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler request]', symObjAddr: 0x230, symBinAddr: 0xB4B0, symSize: 0x8 }
+  - { offsetInCU: 0x385, offset: 0x59BCD, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler setRequest:]', symObjAddr: 0x238, symBinAddr: 0xB4B8, symSize: 0xC }
+  - { offsetInCU: 0x3C6, offset: 0x59C0E, size: 0x8, addend: 0x0, symName: '-[FIAPRequestHandler .cxx_destruct]', symObjAddr: 0x244, symBinAddr: 0xB4C4, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x59CBC, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache init]', symObjAddr: 0x0, symBinAddr: 0xB4F4, symSize: 0x70 }
+  - { offsetInCU: 0x92, offset: 0x59D27, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache init]', symObjAddr: 0x0, symBinAddr: 0xB4F4, symSize: 0x70 }
+  - { offsetInCU: 0xC9, offset: 0x59D5E, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache addObjects:forKey:]', symObjAddr: 0x70, symBinAddr: 0xB564, symSize: 0x124 }
+  - { offsetInCU: 0x12C, offset: 0x59DC1, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache getObjectsForKey:]', symObjAddr: 0x194, symBinAddr: 0xB688, symSize: 0x7C }
+  - { offsetInCU: 0x173, offset: 0x59E08, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache clear]', symObjAddr: 0x210, symBinAddr: 0xB704, symSize: 0x30 }
+  - { offsetInCU: 0x1A6, offset: 0x59E3B, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache cache]', symObjAddr: 0x240, symBinAddr: 0xB734, symSize: 0x8 }
+  - { offsetInCU: 0x1DD, offset: 0x59E72, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache setCache:]', symObjAddr: 0x248, symBinAddr: 0xB73C, symSize: 0xC }
+  - { offsetInCU: 0x21E, offset: 0x59EB3, size: 0x8, addend: 0x0, symName: '-[FIATransactionCache .cxx_destruct]', symObjAddr: 0x254, symBinAddr: 0xB748, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x59F3A, size: 0x8, addend: 0x0, symName: '+[InAppPurchasePlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0xB754, symSize: 0xA8 }
+  - { offsetInCU: 0x1BC, offset: 0x5A0CF, size: 0x8, addend: 0x0, symName: '+[InAppPurchasePlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0xB754, symSize: 0xA8 }
+  - { offsetInCU: 0x21B, offset: 0x5A12E, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin initWithReceiptManager:]', symObjAddr: 0xA8, symBinAddr: 0xB7FC, symSize: 0xB8 }
+  - { offsetInCU: 0x262, offset: 0x5A175, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin initWithRegistrar:]', symObjAddr: 0x160, symBinAddr: 0xB8B4, symSize: 0x324 }
+  - { offsetInCU: 0x2B9, offset: 0x5A1CC, size: 0x8, addend: 0x0, symName: '___41-[InAppPurchasePlugin initWithRegistrar:]_block_invoke', symObjAddr: 0x484, symBinAddr: 0xBBD8, symSize: 0x48 }
+  - { offsetInCU: 0x304, offset: 0x5A217, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w, symObjAddr: 0x4CC, symBinAddr: 0xBC20, symSize: 0xC }
+  - { offsetInCU: 0x32D, offset: 0x5A240, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w, symObjAddr: 0x4D8, symBinAddr: 0xBC2C, symSize: 0x8 }
+  - { offsetInCU: 0x34C, offset: 0x5A25F, size: 0x8, addend: 0x0, symName: '___41-[InAppPurchasePlugin initWithRegistrar:]_block_invoke.8', symObjAddr: 0x4E0, symBinAddr: 0xBC34, symSize: 0x48 }
+  - { offsetInCU: 0x397, offset: 0x5A2AA, size: 0x8, addend: 0x0, symName: '___41-[InAppPurchasePlugin initWithRegistrar:]_block_invoke_2', symObjAddr: 0x528, symBinAddr: 0xBC7C, symSize: 0x48 }
+  - { offsetInCU: 0x3E2, offset: 0x5A2F5, size: 0x8, addend: 0x0, symName: '___41-[InAppPurchasePlugin initWithRegistrar:]_block_invoke.10', symObjAddr: 0x570, symBinAddr: 0xBCC4, symSize: 0x2C }
+  - { offsetInCU: 0x41D, offset: 0x5A330, size: 0x8, addend: 0x0, symName: '___41-[InAppPurchasePlugin initWithRegistrar:]_block_invoke.12', symObjAddr: 0x59C, symBinAddr: 0xBCF0, symSize: 0x78 }
+  - { offsetInCU: 0x47C, offset: 0x5A38F, size: 0x8, addend: 0x0, symName: '___41-[InAppPurchasePlugin initWithRegistrar:]_block_invoke.14', symObjAddr: 0x614, symBinAddr: 0xBD68, symSize: 0x48 }
+  - { offsetInCU: 0x4C7, offset: 0x5A3DA, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin handleMethodCall:result:]', symObjAddr: 0x65C, symBinAddr: 0xBDB0, symSize: 0x440 }
+  - { offsetInCU: 0x52E, offset: 0x5A441, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin canMakePayments:]', symObjAddr: 0xA9C, symBinAddr: 0xC1F0, symSize: 0x7C }
+  - { offsetInCU: 0x588, offset: 0x5A49B, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin getPendingTransactions:]', symObjAddr: 0xB18, symBinAddr: 0xC26C, symSize: 0x19C }
+  - { offsetInCU: 0x625, offset: 0x5A538, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin handleProductRequestMethodCall:result:]', symObjAddr: 0xCB4, symBinAddr: 0xC408, symSize: 0x26C }
+  - { offsetInCU: 0x6D3, offset: 0x5A5E6, size: 0x8, addend: 0x0, symName: '___61-[InAppPurchasePlugin handleProductRequestMethodCall:result:]_block_invoke', symObjAddr: 0xF20, symBinAddr: 0xC674, symSize: 0x2D4 }
+  - { offsetInCU: 0x7DA, offset: 0x5A6ED, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b64w, symObjAddr: 0x11F4, symBinAddr: 0xC948, symSize: 0x50 }
+  - { offsetInCU: 0x803, offset: 0x5A716, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64w, symObjAddr: 0x1244, symBinAddr: 0xC998, symSize: 0x40 }
+  - { offsetInCU: 0x822, offset: 0x5A735, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin addPayment:result:]', symObjAddr: 0x1284, symBinAddr: 0xC9D8, symSize: 0x4B0 }
+  - { offsetInCU: 0x992, offset: 0x5A8A5, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin finishTransaction:result:]', symObjAddr: 0x1734, symBinAddr: 0xCE88, symSize: 0x44C }
+  - { offsetInCU: 0xAA3, offset: 0x5A9B6, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin restoreTransactions:result:]', symObjAddr: 0x1B80, symBinAddr: 0xD2D4, symSize: 0x16C }
+  - { offsetInCU: 0xB2E, offset: 0x5AA41, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin presentCodeRedemptionSheet:result:]', symObjAddr: 0x1CEC, symBinAddr: 0xD440, symSize: 0x5C }
+  - { offsetInCU: 0xB9A, offset: 0x5AAAD, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin retrieveReceiptData:result:]', symObjAddr: 0x1D48, symBinAddr: 0xD49C, symSize: 0xAC }
+  - { offsetInCU: 0xC1A, offset: 0x5AB2D, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin refreshReceipt:result:]', symObjAddr: 0x1DF4, symBinAddr: 0xD548, symSize: 0x2F8 }
+  - { offsetInCU: 0xCE7, offset: 0x5ABFA, size: 0x8, addend: 0x0, symName: '___45-[InAppPurchasePlugin refreshReceipt:result:]_block_invoke', symObjAddr: 0x20EC, symBinAddr: 0xD840, symSize: 0xF8 }
+  - { offsetInCU: 0xD9A, offset: 0x5ACAD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48w, symObjAddr: 0x21E4, symBinAddr: 0xD938, symSize: 0x40 }
+  - { offsetInCU: 0xDC3, offset: 0x5ACD6, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48w, symObjAddr: 0x2224, symBinAddr: 0xD978, symSize: 0x30 }
+  - { offsetInCU: 0xDE2, offset: 0x5ACF5, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin startObservingPaymentQueue:]', symObjAddr: 0x2254, symBinAddr: 0xD9A8, symSize: 0x44 }
+  - { offsetInCU: 0xE41, offset: 0x5AD54, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin stopObservingPaymentQueue:]', symObjAddr: 0x2298, symBinAddr: 0xD9EC, symSize: 0x44 }
+  - { offsetInCU: 0xEA0, offset: 0x5ADB3, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin registerPaymentQueueDelegate:]', symObjAddr: 0x22DC, symBinAddr: 0xDA30, symSize: 0xDC }
+  - { offsetInCU: 0xEFF, offset: 0x5AE12, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin removePaymentQueueDelegate:]', symObjAddr: 0x23B8, symBinAddr: 0xDB0C, symSize: 0x78 }
+  - { offsetInCU: 0xF5E, offset: 0x5AE71, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin showPriceConsentIfNeeded:]', symObjAddr: 0x2430, symBinAddr: 0xDB84, symSize: 0x5C }
+  - { offsetInCU: 0xFBD, offset: 0x5AED0, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin getNonNullValueFromDictionary:forKey:]', symObjAddr: 0x248C, symBinAddr: 0xDBE0, symSize: 0x64 }
+  - { offsetInCU: 0x1024, offset: 0x5AF37, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin handleTransactionsUpdated:]', symObjAddr: 0x24F0, symBinAddr: 0xDC44, symSize: 0x180 }
+  - { offsetInCU: 0x109A, offset: 0x5AFAD, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin handleTransactionsRemoved:]', symObjAddr: 0x2670, symBinAddr: 0xDDC4, symSize: 0x180 }
+  - { offsetInCU: 0x1110, offset: 0x5B023, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin handleTransactionRestoreFailed:]', symObjAddr: 0x27F0, symBinAddr: 0xDF44, symSize: 0x88 }
+  - { offsetInCU: 0x1155, offset: 0x5B068, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin restoreCompletedTransactionsFinished]', symObjAddr: 0x2878, symBinAddr: 0xDFCC, symSize: 0x3C }
+  - { offsetInCU: 0x1189, offset: 0x5B09C, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin updatedDownloads:]', symObjAddr: 0x28B4, symBinAddr: 0xE008, symSize: 0x1C }
+  - { offsetInCU: 0x11C6, offset: 0x5B0D9, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin shouldAddStorePayment:product:]', symObjAddr: 0x28D0, symBinAddr: 0xE024, symSize: 0x194 }
+  - { offsetInCU: 0x1220, offset: 0x5B133, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin getProductRequestWithIdentifiers:]', symObjAddr: 0x2A64, symBinAddr: 0xE1B8, symSize: 0x4C }
+  - { offsetInCU: 0x1265, offset: 0x5B178, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin getProduct:]', symObjAddr: 0x2AB0, symBinAddr: 0xE204, symSize: 0x6C }
+  - { offsetInCU: 0x12AE, offset: 0x5B1C1, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin getRefreshReceiptRequest:]', symObjAddr: 0x2B1C, symBinAddr: 0xE270, symSize: 0x4C }
+  - { offsetInCU: 0x12F3, offset: 0x5B206, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin paymentQueueHandler]', symObjAddr: 0x2B68, symBinAddr: 0xE2BC, symSize: 0x8 }
+  - { offsetInCU: 0x132A, offset: 0x5B23D, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin setPaymentQueueHandler:]', symObjAddr: 0x2B70, symBinAddr: 0xE2C4, symSize: 0xC }
+  - { offsetInCU: 0x136B, offset: 0x5B27E, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin requestHandlers]', symObjAddr: 0x2B7C, symBinAddr: 0xE2D0, symSize: 0x8 }
+  - { offsetInCU: 0x13A2, offset: 0x5B2B5, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin productsCache]', symObjAddr: 0x2B84, symBinAddr: 0xE2D8, symSize: 0x8 }
+  - { offsetInCU: 0x13D9, offset: 0x5B2EC, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin transactionObserverCallbackChannel]', symObjAddr: 0x2B8C, symBinAddr: 0xE2E0, symSize: 0x8 }
+  - { offsetInCU: 0x1410, offset: 0x5B323, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin paymentQueueDelegateCallbackChannel]', symObjAddr: 0x2B94, symBinAddr: 0xE2E8, symSize: 0x8 }
+  - { offsetInCU: 0x1447, offset: 0x5B35A, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin registrar]', symObjAddr: 0x2B9C, symBinAddr: 0xE2F0, symSize: 0x8 }
+  - { offsetInCU: 0x147E, offset: 0x5B391, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin receiptManager]', symObjAddr: 0x2BA4, symBinAddr: 0xE2F8, symSize: 0x8 }
+  - { offsetInCU: 0x14B5, offset: 0x5B3C8, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin paymentQueueDelegate]', symObjAddr: 0x2BAC, symBinAddr: 0xE300, symSize: 0x8 }
+  - { offsetInCU: 0x14EC, offset: 0x5B3FF, size: 0x8, addend: 0x0, symName: '-[InAppPurchasePlugin .cxx_destruct]', symObjAddr: 0x2BB4, symBinAddr: 0xE308, symSize: 0x78 }
+...

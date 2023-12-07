@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24px" height="24px" viewbox="0 0 24 24" version="1.1" id="ico-V-cerchio" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <g id="g40" clip-path="url(#clip_1)">
+    <g id="Group">
+      <g id="IconeV">
+        <path d="M7.3625 0.2925C7.7525 0.6825 7.7525 1.3125 7.3625 1.7025L3.1225 5.9425L0.2925 3.1225C-0.0975 2.7325 -0.0975 2.0925 0.2925 1.7025C0.6825 1.3125 1.3225 1.3125 1.7125 1.7025L3.1225 3.1225L5.9525 0.2925C6.3415 -0.0975 6.9715 -0.0975 7.3625 0.2925" transform="translate(8.8777 9.0273)" id="Fill-cerchiov" fill="#000" fill-rule="evenodd" stroke="black" stroke-width="0.2"></path>
+      </g>
+    </g>
+    <path d="M18 8.94C18 4.36 14.56 0.51 10 0L10 1C14 1.51 17 4.91 17 8.94C17 12.97 14 16.37 10 16.88L10 17.88C14.56 17.37 18 13.52 18 8.94ZM8 17.8803L8 16.8803C4 16.3693 1 12.9703 1 8.9403C1 4.9103 4 1.5093 8 1.0003L8 0.0003C3.44 0.5093 0 4.3593 0 8.9403C0 13.5203 3.44 17.3693 8 17.8803Z" transform="translate(3 3.0601)" id="Fill-v" fill="#000" fill-rule="evenodd" stroke="black" stroke-width="0.2" style="opacity:1"></path>
+  </g>
+</svg>

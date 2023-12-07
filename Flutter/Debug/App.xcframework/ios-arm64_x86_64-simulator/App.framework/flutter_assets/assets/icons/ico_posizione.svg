@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="676px" height="676px" viewbox="0 0 676 676" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="IconeLocation" transform="translate(0.5 0.5)">
+    <path d="M0 675L675 675L675 0L0 0L0 675Z" id="Stroke-3" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M169.027 0C296.996 0 378.558 136.969 317.246 249.469L181.402 498.937C176.058 508.781 161.996 508.781 156.652 498.937L20.8081 249.469C-40.5044 136.969 41.0581 0 169.027 0M235.402 220.781C264.09 183.937 257.621 131.062 221.058 102.375C184.215 73.6874 131.34 80.1562 102.652 116.719C73.9647 153.562 80.4334 206.437 116.996 235.125C153.84 263.812 206.715 257.344 235.402 220.781" transform="translate(168.47278 84.375)" id="Fill-1" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

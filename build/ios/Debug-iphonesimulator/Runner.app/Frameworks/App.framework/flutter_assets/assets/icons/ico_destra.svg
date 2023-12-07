@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="641px" height="641px" viewbox="0 0 641 641" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="IconeFrecciaDestra" transform="translate(0.5 0.5)">
+    <path d="M0 640L640 640L640 0L0 0L0 640Z" id="Stroke-3" fill="none" fill-rule="evenodd" stroke="none" />
+    <path d="M45.6667 7.8C83.2667 45.6667 120.867 83.2667 158.733 121.133C120.867 158.733 83.2667 196.333 45.6667 234.2C35.2667 244.6 18.2 244.6 7.8 234.2C-2.6 223.8 -2.6 207 7.8 196.333C32.8667 171.267 58.2 146.2 83.2667 121.133C58.2 95.8 32.8667 70.7333 7.8 45.6667C-2.6 35.2667 -2.6 18.2 7.8 7.8C18.2 -2.6 35.2667 -2.6 45.6667 7.8" transform="translate(236.72769 202.86377)" id="Fill-1" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
